@@ -42,10 +42,10 @@ To set up the `psamwelt-ecommerce` project, follow these steps:
 5. **Start the Application**: Once everything is set up, start the application.
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-    This will start the application on the specified port (default is 3000).
+    This will start the application on the specified port (default is 5173).
 
 ## Features
 
